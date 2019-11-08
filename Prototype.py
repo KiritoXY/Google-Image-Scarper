@@ -4,7 +4,7 @@ Created on Fri Nov  8 18:57:42 2019
 
 @author: Adil Ayub
 
-ANAS NOTICE/PLEASE READ ME
+NOTICE/PLEASE READ ME
 Inputs:
 Directory:This will take the directory name along with the html file as input.
 folder_name:This will the output folder in which the images will be placed.
