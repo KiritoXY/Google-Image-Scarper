@@ -7,7 +7,7 @@ The way it works is that when you download the prototype code which is a bit har
 the directory variable and the folder_name variable.
 
 Inputs:
-Directory:This will take the directory name along with the html file as input.
+Directory:This will take the directory name along with the html file as input.\n
 folder_name:This will the output folder in which the images will be placed.
 
 NOTE:You need to download the html page of said google image search of this will not work. 
